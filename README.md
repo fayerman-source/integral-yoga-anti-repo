@@ -2,6 +2,8 @@
 
 > **Notice regarding repository status:** No code or algorithmic system can execute the Integral Yoga. This repository serves as a spiritual statement on the limits of technological instrumentation in the work of inner transformation.
 
+<p align="center"><img src="assets/integral-yoga-hero.jpg" alt="A luminous golden figure stands upon the Earth beneath a radiant cosmic sky, between dark blue mountains and a sunlit landscape of rivers and peaks." width="100%" /></p>
+
 ---
 
 ## The Illusions of the Algorithmic Mind
